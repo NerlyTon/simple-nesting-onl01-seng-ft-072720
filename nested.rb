@@ -107,7 +107,7 @@ def changing_alan
      }
      
      programmer_hash[:yukihiro_matsumoto][:known_for] << "GUI"
-     
+     puts programmer_hash
      
 end
 
