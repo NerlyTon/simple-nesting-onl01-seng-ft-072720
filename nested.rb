@@ -106,7 +106,7 @@ def changing_alan
         }
      }
      
-     programmer_hash
+     programmer_hash[:yukihiro_matsumoto]
      
      
 end
